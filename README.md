@@ -16,3 +16,5 @@ And that's it. As long as you keep running the script from point 6, everything w
 
 The usual caveats apply: read the code and make sure you understand what it's doing, please do some tests before running it unattended, all under your responsibility, this might break your coffee machine, blah, blah.
 
+Inspired by the code [in this blog post](http://www.mathewinkson.com/2015/03/delete-old-tweets-selectively-using-python-and-tweepy).
+
