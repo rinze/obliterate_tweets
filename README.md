@@ -2,7 +2,7 @@
 
 1. Download the code.
 
-2. Register the application on [this Twitter developer page](https://dev.twitter.com/).
+2. Register the application on [this Twitter developer page](https://apps.twitter.com/).
 
 3. Copy <code>config-sample.py</code> to <code>config.py</code> and edit the necessary variables. This includes the auth tokens that you will obtain from the page above and the number of tweets you want to have at any given point in time.
 
